@@ -1,2 +1,9 @@
 # RMIT---Business-Analytics-with-SQL-and-Python
-Completed 2024
+Course completed 2024
+Libraries used: 
+- Pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
+IDE - Juypter Notebook
